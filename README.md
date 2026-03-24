@@ -157,3 +157,10 @@ A escolha de relatório paginado (Report Builder) ao invés de dashboard interat
 - Exportação em PDF para distribuição
 - Listagem detalhada de clientes (não apenas métricas agregadas)
 - Processamento server-side de volumes maiores de dados
+
+  
+## Autor
+
+**Victor**  
+Análise de Dados | Python · SQL · Power BI  
+[LinkedIn](https://www.linkedin.com/in/victor-martins1/) · [GitHub](https://github.com/euvictorfelipe)
