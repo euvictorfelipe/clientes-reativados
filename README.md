@@ -132,12 +132,9 @@ WHERE
 
 ## 📸 Demonstração
 
-> **[Adicionar screenshots aqui]**
-> - Tela de parâmetros do relatório
-> - Exemplo de saída (clientes reativados)
-> - Exemplo de saída (clientes novos)
-> - Totalizadores finais
+> Clientes com primeira compra: [https://github.com/euvictorfelipe/clientes-reativados/blob/main/Clientes%20com%20primeira%20compra.pdf](https://github.com/euvictorfelipe/clientes-reativados/blob/9834a64a83a71b9c06903c906781823ff2dc1776/Clientes%20com%20primeira%20compra.pdf)
 
+> Clientes reativados: [https://github.com/euvictorfelipe/clientes-reativados/blob/9834a64a83a71b9c06903c906781823ff2dc1776/Clientes%20reativados.pdf](https://github.com/euvictorfelipe/clientes-reativados/blob/9834a64a83a71b9c06903c906781823ff2dc1776/Clientes%20reativados.pdf)
 ---
 
 ## 🎓 Aprendizados
